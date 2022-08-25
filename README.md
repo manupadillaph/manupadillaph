@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manupadillaph
 - 👀 I’m interested in art and science
-- 🌱 I’m currently learning IA
+- 🌱 I’m currently learning Python, IA, Crypto, Blockchain, Cardano, Plutus & Haskell
 - 📫 manuelpad@gmail.com
 
 <!---
